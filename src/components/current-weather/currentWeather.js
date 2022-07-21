@@ -1,6 +1,7 @@
 import React from "react";
 import "./currentWeather.css";
 
+
 const CurrentWeather = () => {
   return (
     <div className="weather">
